@@ -18,3 +18,5 @@ The next game mechanic I implemented was a simple coin collection system. When t
 After implementing the core game mechanics, my next step was to implement touch-based input controls. Unreal Engine already has a bult in UI for touchscreen controls, so adding this was as simple as adding that UI to the player view in the world blueprint. The left joystick controls player movement, the right joystick controls the camera angle, and the button above the right joystick allows the player to jump.
 
 The final section of this task was to build the game and run it on a physical android device, and then compare the differences in optimisation between the editor/emulator version and the version running on a physical device. However, due to build error with the university PCs and me not having any android devices, I am currently unable to test the game on physical hardware.
+
+Video Demonstration: https://file.garden/al1RhDmrxi0o9o3H/Screen%20Recording%202026-10-22%20222313.mp4
